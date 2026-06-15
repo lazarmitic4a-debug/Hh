@@ -620,4 +620,228 @@
 </details>
 
 ---
-47. Knjiga košta 1000 dinara. Prvo je poskupela za 20%, a zatim je pojeftinila za 10%. Koliko sada košta knjiga?a) 1080b) 1020c) 1180💡 Pogledaj tačan odgovor i postupakTačan odgovor: a) 1080Postupak:Prvo računamo poskupljenje od 20% na početnu cenu:$1000 \text{ din} \cdot 0.20 = 200 \text{ din}$Nova cena nakon poskupljenja iznosi:$1000 + 200 = 1200 \text{ din}$Zatim računamo pojeftinjenje od 10% na tu novu cenu od 1200 dinara:$1200 \text{ din} \cdot 0.10 = 120 \text{ din}$Konačna cena iznosi:$1200 - 120 = 1080 \text{ din}$48. Ako je $z = \frac{1}{9}$, koliko iznosi vrednost izraza $\frac{\sqrt{z}}{3z + 1}$?a) $\frac{1}{4}$b) $\frac{1}{3}$c) $\frac{1}{2}$💡 Pogledaj tačan odgovor i postupakTačan odgovor: a) 1/4Postupak:Zamenimo podatak $z = \frac{1}{9}$ direktno u gornji izraz:Prvo izračunamo koren u brojiocu:$\sqrt{\frac{1}{9}} = \frac{1}{3}$Zatim izračunamo vrednost u imeniocu:$3 \cdot \frac{1}{9} + 1 = \frac{3}{9} + 1 = \frac{1}{3} + 1 = \frac{4}{3}$Sredimo dvojni razlomak koji smo dobili:$\frac{\frac{1}{3}}{\frac{4}{3}} = \frac{1 \cdot 3}{3 \cdot 4} = \frac{1}{4}$49. Uprostiti sledeći algebarski izraz: $\frac{3x^2 - 3x}{x^2 - x}$a) xb) 3c) 3x💡 Pogledaj tačan odgovor i postupakTačan odgovor: b) 3Postupak:Izraz pojednostavljujemo tako što izvučemo zajedničke množioce ispred zagrada:U brojiocu izvlačimo zajednički član $3x$:$3x^2 - 3x = 3x(x - 1)$U imeniocu izvlačimo zajednički član $x$:$x^2 - x = x(x - 1)$Kada ih postavimo u razlomak, dobijamo:$\frac{3x(x - 1)}{x(x - 1)}$Skraćivanjem istih članova $x$ i $(x - 1)$ u brojiocu i imeniocu, dobijamo konačan rezultat: 3.50. Reši jednačinu: $\frac{x + 1}{2x - 3} = \frac{2}{3}$. Vrednost nepoznate $x$ je:a) 9b) 4c) 2💡 Pogledaj tačan odgovor i postupakTačan odgovor: a) 9Postupak:Proporciju rešavamo unakrsnim množenjem levog brojioca sa desnim imeniocem:$$3 \cdot (x + 1) = 2 \cdot (2x - 3)$$Množenjem članova unutar zagrada dobijamo linearne vrednosti:$$3x + 3 = 4x - 6$$Prebacimo sve nepoznate na desnu stranu, a poznate brojeve na levu stranu:$$3 + 6 = 4x - 3x$$$$9 = x \implies x = 9$$51. Zbir svih rešenja kvadratne jednačine $3x^2 - 6x + 3 = 0$ je:a) 0b) 2c) 1💡 Pogledaj tačan odgovor i postupakTačan odgovor: b) 2Postupak:Zadatak možemo najbrže rešiti korišćenjem Vijetovih pravila. Za svaku kvadratnu jednačinu oblika $ax^2 + bx + c = 0$, zbir njenih rešenja je određen formulom:$$x_1 + x_2 = -\frac{b}{a}$$Iz naše jednačine očitavamo koeficijente $a = 3$ i $b = -6$. Zamenom u formulu dobijamo:$$x_1 + x_2 = -\frac{-6}{3} = \frac{6}{3} = 2$$52. Reši sistem linearnih jednačina:$$x - 3y = -5$$$$2x + 5y = 12$$Vrednosti nepoznatih $x$ i $y$ su:a) x=1, y=2b) x=2, y=3c) x=2, y=1💡 Pogledaj tačan odgovor i postupakTačan odgovor: a) x=1, y=2Postupak:Sistem rešavamo metodom zamene. Iz prve jednačine eksplicitno izrazimo nepoznatu $x$:$$x = 3y - 5$$Ovaj izraz sada zamenimo u drugu jednačinu sistema:$$2 \cdot (3y - 5) + 5y = 12$$Rešimo se zagrade množenjem:$$6y - 10 + 5y = 12$$Saberemo nepoznate i prebacimo broj $-10$ na desnu stranu:$$11y = 12 + 10$$$$11y = 22 \implies y = \frac{22}{11} \implies y = 2$$Sada izračunatu vrednost za $y$ vratimo u početni izraz za $x$:$$x = 3 \cdot 2 - 5 = 6 - 5 = 1$$Dobijamo konačan par rešenja: x = 1, y = 2
+## 🧮 DEO II: Matematika
+
+### 1. Knjiga košta 1000 dinara. Prvo je poskupela za 20%, a zatim je pojeftinila za 10%. Koliko sada košta knjiga?
+- a) 1080
+- b) 1020
+- c) 1180
+
+<details>
+<summary><b>💡 Pogledaj tačan odgovor i postupak</b></summary>
+<br>
+
+**Tačan odgovor:** `a) 1080`
+
+**Postupak:**
+1. Prvo računamo poskupljenje od 20% na početnu cenu:  
+   $1000 \text{ din} \cdot 0.20 = 200 \text{ din}$  
+   Nova cena nakon poskupljenja iznosi:  
+   $1000 + 200 = 1200 \text{ din}$
+2. Zatim računamo pojeftinjenje od 10% na tu novu cenu od 1200 dinara:  
+   $1200 \text{ din} \cdot 0.10 = 120 \text{ din}$  
+   Konačna cena iznosi:  
+   $1200 - 120 = 1080 \text{ din}$
+</details>
+
+---
+
+### 2. Ako je $z = \frac{1}{9}$, koliko iznosi vrednost izraza $\frac{\sqrt{z}}{3z + 1}$?
+- a) $\frac{1}{4}$
+- b) $\frac{1}{3}$
+- c) $\frac{1}{2}$
+
+<details>
+<summary><b>💡 Pogledaj tačan odgovor i postupak</b></summary>
+<br>
+
+**Tačan odgovor:** `a) 1/4`
+
+**Postupak:**
+Zamenimo podatak $z = \frac{1}{9}$ direktno u gornji izraz:
+1. Prvo izračunamo koren u brojiocu:  
+   $\sqrt{\frac{1}{9}} = \frac{1}{3}$
+2. Zatim izračunamo vrednost u imeniocu:  
+   $3 \cdot \frac{1}{9} + 1 = \frac{3}{9} + 1 = \frac{1}{3} + 1 = \frac{4}{3}$
+3. Sredimo dvojni razlomak koji smo dobili:  
+   $\frac{\frac{1}{3}}{\frac{4}{3}} = \frac{1 \cdot 3}{3 \cdot 4} = \frac{1}{4}$
+</details>
+
+---
+
+### 3. Uprostiti sledeći algebarski izraz: $\frac{3x^2 - 3x}{x^2 - x}$
+- a) x
+- b) 3
+- c) 3x
+
+<details>
+<summary><b>💡 Pogledaj tačan odgovor i postupak</b></summary>
+<br>
+
+**Tačan odgovor:** `b) 3`
+
+**Postupak:**
+Izraz pojednostavljujemo tako što izvučemo zajedničke množioce ispred zagrada:
+1. U brojiocu izvlačimo zajednički član $3x$:  
+   $3x^2 - 3x = 3x(x - 1)$
+2. U imeniocu izvlačimo zajednički član $x$:  
+   $x^2 - x = x(x - 1)$
+3. Kada ih postavimo u razlomak, dobijamo:  
+   $\frac{3x(x - 1)}{x(x - 1)}$
+4. Skraćivanjem istih članova $x$ i $(x - 1)$ u brojiocu i imeniocu, dobijamo konačan rezultat: `3`.
+</details>
+
+---
+
+### 4. Reši jednačinu: $\frac{x + 1}{2x - 3} = \frac{2}{3}$. Vrednost nepoznate $x$ je:
+- a) 9
+- b) 4
+- c) 2
+
+<details>
+<summary><b>💡 Pogledaj tačan odgovor i postupak</b></summary>
+<br>
+
+**Tačan odgovor:** `a) 9`
+
+**Postupak:**
+Proporciju rešavamo unakrsnim množenjem levog brojioca sa desnim imeniocem:
+$$3 \cdot (x + 1) = 2 \cdot (2x - 3)$$
+Množenjem članova unutar zagrada dobijamo linearne vrednosti:
+$$3x + 3 = 4x - 6$$
+Prebacimo sve nepoznate na desnu stranu, a poznate brojeve na levu stranu:
+$$3 + 6 = 4x - 3x$$
+$$9 = x \implies x = 9$$
+</details>
+
+---
+
+### 5. Zbir svih rešenja kvadratne jednačine $3x^2 - 6x + 3 = 0$ je:
+- a) 0
+- b) 2
+- c) 1
+
+<details>
+<summary><b>💡 Pogledaj tačan odgovor i postupak</b></summary>
+<br>
+
+**Tačan odgovor:** `b) 2`
+
+**Postupak:**
+Zadatak možemo najbrže rešiti korišćenjem Vijetovih pravila. Za svaku kvadratnu jednačinu oblika $ax^2 + bx + c = 0$, zbir njenih rešenja je određen formulom:
+$$x_1 + x_2 = -\frac{b}{a}$$
+Iz naše jednačine očitavamo koeficijente $a = 3$ i $b = -6$. Zamenom u formulu dobijamo:
+$$x_1 + x_2 = -\frac{-6}{3} = \frac{6}{3} = 2$$
+</details>
+
+---
+
+### 6. Reši sistem linearnih jednačina:
+$$x - 3y = -5$$
+$$2x + 5y = 12$$
+Vrednosti nepoznatih $x$ i $y$ su:
+- a) x=1, y=2
+- b) x=2, y=3
+- c) x=2, y=1
+
+<details>
+<summary><b>💡 Pogledaj tačan odgovor i postupak</b></summary>
+<br>
+
+**Tačan odgovor:** `a) x=1, y=2`
+
+**Postupak:**
+Sistem rešavamo metodom zamene. Iz prve jednačine eksplicitno izrazimo nepoznatu $x$:
+$$x = 3y - 5$$
+Ovaj izraz sada zamenimo u drugu jednačinu sistema:
+$$2 \cdot (3y - 5) + 5y = 12$$
+Rešimo se zagrade množenjem:
+$$6y - 10 + 5y = 12$$
+Saberemo nepoznate i prebacimo broj $-10$ na desnu stranu:
+$$11y = 12 + 10$$
+$$11y = 22 \implies y = \frac{22}{11} \implies y = 2$$
+Sada izračunatu vrednost za $y$ vratimo u početni izraz za $x$:
+$$x = 3 \cdot 2 - 5 = 6 - 5 = 1$$
+Dobijamo konačan par rešenja: `x = 1, y = 2`.
+</details>
+---
+
+## 📐 DEO III: Tehničko crtanje i Projekcije (Rešenja grafičkih zadataka)
+
+Ovaj deo sadrži tačna rešenja za zadatke u kojima je potrebno prepoznati trodimenzionalne predmete (A, B, C, D, E) na osnovu njihovih ortogonalnih projekcija (izgled spreda, odozgo i sa leve strane) ili smera strelice.
+
+---
+
+### Zadatak sa strane 17 (Prepoznavanje 3 izgleda tela)
+
+<details>
+<summary><b>💡 Pogledaj rešenje za Predmet A</b></summary>
+<br>
+
+**Tačna kombinacija crteža:** `15, 9, 6`
+- **Izgled spreda (nacrt):** Crtež broj 15
+- **Izgled odozgo (tlocrt):** Crtež broj 9
+- **Izgled sa leve strane (bokocrt):** Crtež broj 6
+</details>
+
+<details>
+<summary><b>💡 Pogledaj rešenje za Predmet B</b></summary>
+<br>
+
+**Tačna kombinacija crteža:** `8, 5, 13`
+- **Izgled spreda (nacrt):** Crtež broj 8
+- **Izgled odozgo (tlocrt):** Crtež broj 5
+- **Izgled sa leve strane (bokocrt):** Crtež broj 13
+</details>
+
+<details>
+<summary><b>💡 Pogledaj rešenje za Predmet C</b></summary>
+<br>
+
+**Tačna kombinacija crteža:** `10, 1, 12`
+- **Izgled spreda (nacrt):** Crtež broj 10
+- **Izgled odozgo (tlocrt):** Crtež broj 1
+- **Izgled sa leve strane (bokocrt):** Crtež broj 12
+</details>
+
+<details>
+<summary><b>💡 Pogledaj rešenje za Predmet D</b></summary>
+<br>
+
+**Tačna kombinacija crteža:** `7, 14, 3`
+- **Izgled spreda (nacrt):** Crtež broj 7
+- **Izgled odozgo (tlocrt):** Crtež broj 14
+- **Izgled sa leve strane (bokocrt):** Crtež broj 3
+</details>
+
+---
+
+### Zadatak sa strane 36 (Izgled tela u pravcu strelice - Model 1)
+
+<details>
+<summary><b>💡 Pogledaj tačne spojeve za modele A, B, C, D, E</b></summary>
+<br>
+
+Povežite slovo trodimenzionalnog modela sa odgovarajućim brojem dvodimenzionalnog prikaza:
+* **Predmet A** ➡️ Odgovara izgledu pod brojem **14**
+* **Predmet B** ➡️ Odgovara izgledu pod brojem **7**
+* **Predmet C** ➡️ Odgovara izgledu pod brojem **9**
+* **Predmet D** ➡️ Odgovara izgledu pod brojem **1**
+* **Predmet E** ➡️ Odgovara izgledu pod brojem **6**
+</details>
+
+---
+
+### Zadatak sa strane 37 (Izgled tela u pravcu strelice - Model 2)
+
+<details>
+<summary><b>💡 Pogledaj tačne spojeve za modele A, B, C, D, E</b></summary>
+<br>
+
+Povežite slovo trodimenzionalnog modela sa odgovarajućim brojem dvodimenzionalnog prikaza:
+* **Predmet A** ➡️ Odgovara izgledu pod brojem **2**
+* **Predmet B** ➡️ Odgovara izgledu pod brojem **10**
+* **Predmet C** ➡️ Odgovara izgledu pod brojem **12**
+* **Predmet D** ➡️ Odgovara izgledu pod brojem **4**
+* **Predmet E** ➡️ Odgovara izgledu pod brojem **9**
+</details>
